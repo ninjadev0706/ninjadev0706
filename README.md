@@ -38,5 +38,5 @@
 </p>
 
 ## Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-lacosby.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ninjadeveloper0706@gmail.com)](ninjadeveloper0706@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-millicare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/millicare)](Kei#2353)
+[![Gmail Badge](https://img.shields.io/badge/-ninjadeveloper0706@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ninjadeveloper0706@gmail.com)](ninjadeveloper0706@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Kei#2353-blue?style=flat-roundedrectangle&logo=discord&logoColor=white)](Kei#2353)
